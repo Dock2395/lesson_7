@@ -1,0 +1,84 @@
+body{
+	max-width: 810px;
+	margin: 0 auto;
+	padding: 0px 15px 0px 15px;
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+}
+
+header{
+	margin: 50px 0px 90px 0px;
+}
+
+img{
+	width: 100%;
+	margin-bottom: 70px;
+}
+
+h1{
+font-family: 'Lato';
+font-style: normal;
+font-weight: 900;
+font-size: 46px;
+line-height: 60px;
+}
+
+p{
+	margin-bottom: 35px;
+	font-size: 16px;
+	line-height: 26px;
+}
+
+aside{
+	padding-left: 56px;
+	margin-bottom: 50px;
+}
+
+.lato-bold{
+	font-family: "Lato";
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+   line-height: 30px;
+}
+
+ul{
+	margin-bottom: 30px;
+	padding-left: 30px;
+
+}
+
+.background{
+	background-image: linear-gradient(to bottom, #ffb76b 3%,#ffa73d 36%,#ff7c00 81%,#ff7f04 100%); 
+}
+
+.background-img{
+	height: 400px;
+	width: 800px;
+	background: url("../img/pngwing.com.png") 0 200px / 200px 150px  no-repeat, url("../img/pnevmonii.jpg") center / 500px 400px no-repeat fixed ;
+}
+
+.background-img-1{
+	padding-top: 35px;
+	padding-left: 230px;
+	height: 400px;
+	width: 800px;
+	background: url("../img/lupa.png") center / 400px 400px  no-repeat;
+
+}
+.background-img-1-2{
+	height: 180px;
+	width: 180px;
+	background: url("../img/virus.png") 42% 52% / 250px 150px no-repeat fixed;
+	border-radius: 50% ;
+
+}
+
+footer {
+	text-align: center;
+	background: #000;
+	color:aliceblue;
+ }
