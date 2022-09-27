@@ -57,7 +57,7 @@ ul{
 
 .background-img{
 	height: 400px;
-	width: 800px;
+	width: 780px;
 	background: url("../img/pngwing.com.png") 0 200px / 200px 150px  no-repeat, url("../img/pnevmonii.jpg") center / 500px 400px no-repeat fixed ;
 }
 
@@ -65,14 +65,14 @@ ul{
 	padding-top: 35px;
 	padding-left: 230px;
 	height: 400px;
-	width: 800px;
+	width: 780px;
 	background: url("../img/lupa.png") center / 400px 400px  no-repeat;
 
 }
 .background-img-1-2{
 	height: 180px;
 	width: 180px;
-	background: url("../img/virus.png") 42% 52% / 250px 150px no-repeat fixed;
+	background: url("../img/virus.png") 44% 100px / 250px 150px no-repeat fixed;
 	border-radius: 50% ;
 
 }
